@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/one-stupid-thing/static/js/main.5938de02.chunk.js",
+    "main.js.map": "/one-stupid-thing/static/js/main.5938de02.chunk.js.map",
+    "runtime-main.js": "/one-stupid-thing/static/js/runtime-main.449612cd.js",
+    "runtime-main.js.map": "/one-stupid-thing/static/js/runtime-main.449612cd.js.map",
+    "static/js/2.9afd9b8d.chunk.js": "/one-stupid-thing/static/js/2.9afd9b8d.chunk.js",
+    "static/js/2.9afd9b8d.chunk.js.map": "/one-stupid-thing/static/js/2.9afd9b8d.chunk.js.map",
+    "index.html": "/one-stupid-thing/index.html",
+    "precache-manifest.856fefae8f12508b2433fd291ba6e880.js": "/one-stupid-thing/precache-manifest.856fefae8f12508b2433fd291ba6e880.js",
+    "service-worker.js": "/one-stupid-thing/service-worker.js",
+    "static/js/2.9afd9b8d.chunk.js.LICENSE.txt": "/one-stupid-thing/static/js/2.9afd9b8d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.449612cd.js",
+    "static/js/2.9afd9b8d.chunk.js",
+    "static/js/main.5938de02.chunk.js"
+  ]
+}
